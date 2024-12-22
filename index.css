@@ -1,0 +1,25 @@
+/* div{
+    width:100px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 10px;
+    border:2px solid black;
+    animation-name: hello;
+    animation-duration: 2s;
+    animation-iteration-count:infinite;
+    animation-duration: normal;
+    animation-play-state: running;
+    animation-timing-function: cubic-bezier(0.5, 0.4, 0.5);}
+     */
+
+
+/* 
+@keyframes hello{
+    from{transform: translateY(100px);}
+
+} */
+
+
+
+
+
